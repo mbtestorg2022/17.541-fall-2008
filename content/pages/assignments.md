@@ -27,13 +27,84 @@ In developing the team's case study presentation, team members should meet to di
 
 Case study topics and discussion questions by session:
 
-| SES # | CASE STUDY TOPICS | DISCUSSION QUESTIONS |
-| --- | --- | --- |
-| 9 | Leadership ([PDF]({{< baseurl >}}/resources/case1)) | ([PDF]({{< baseurl >}}/resources/questions1)) |
-| 10 | International economy ([PDF]({{< baseurl >}}/resources/case2)) | ([PDF]({{< baseurl >}}/resources/questions2)) |
-| 11 | Education ([PDF]({{< baseurl >}}/resources/case3)) | ([PDF]({{< baseurl >}}/resources/questions3)) |
-| 11 | Workplace ([PDF]({{< baseurl >}}/resources/case4)) | ([PDF]({{< baseurl >}}/resources/questions4)) |
-| 12 | Community ([PDF]({{< baseurl >}}/resources/case5)) | ([PDF]({{< baseurl >}}/resources/questions5)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+CASE STUDY TOPICS
+{{< thclose >}}
+{{< thopen >}}
+DISCUSSION QUESTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Leadership ([PDF]({{< baseurl >}}/resources/case1))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/questions1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+International economy ([PDF]({{< baseurl >}}/resources/case2))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/questions2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Education ([PDF]({{< baseurl >}}/resources/case3))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/questions3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Workplace ([PDF]({{< baseurl >}}/resources/case4))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/questions4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Community ([PDF]({{< baseurl >}}/resources/case5))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/questions5))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Web Page Assignment
 -------------------
